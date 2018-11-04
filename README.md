@@ -1,8 +1,17 @@
 # reCiclo
 
-Web App criado no hackaton da Hacktudo 2018.
+Web App created at Hacktudo 2018 Hackathon.
 
-Gamificação de reciclagem de lixo no Brasil
+## Description
+
+Under construction.
+
+## Built With
+
+* [React](https://reactjs.org/) - Used to create the user interface
+* [MongoDB](https://www.mongodb.com/) - NoSQL data storage
+* [Node](https://nodejs.org/en/) - Used to build the back-end application
+* [Heroku](https://www.heroku.com/) - Cloud platform
 
 ## Authors
 
