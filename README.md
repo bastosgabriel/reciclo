@@ -1,6 +1,6 @@
 # reCiclo ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 
-Web App created at Hacktudo 2018 Hackathon.
+Web App created at Hacktudo 2018's Hackathon.
 
 ## Description
 
