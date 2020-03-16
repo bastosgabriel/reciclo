@@ -13,6 +13,8 @@ The main idea of the app is to enable citizens to be rewarded for recycling. The
 * [Node](https://nodejs.org/en/) - Used to build the back-end application
 * [Heroku](https://www.heroku.com/) - Cloud platform
 
+* The app is not finished
+
 ## Authors
 
 * **Rodrigo Bello** - [rodrigobello](https://github.com/rodrigobello)
