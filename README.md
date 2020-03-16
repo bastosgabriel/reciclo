@@ -4,7 +4,7 @@ Web App created at Hacktudo 2018's Hackathon.
 
 ## Description
 
-Under construction.
+The main idea of the app is to enable citizens to be rewarded for recycling. There must be some oficial recycling points around the city and the citizen can receive points on the app everytime they do some recycling. Points can be spend on rewards like a food discount.
 
 ## Built With
 
